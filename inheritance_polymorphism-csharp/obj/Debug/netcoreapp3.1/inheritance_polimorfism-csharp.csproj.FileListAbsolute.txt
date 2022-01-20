@@ -1,0 +1,14 @@
+C:\Users\Vinicius\source\repos\inheritance_polimorfism-csharp\inheritance_polimorfism-csharp\bin\Debug\netcoreapp3.1\inheritance_polimorfism-csharp.exe
+C:\Users\Vinicius\source\repos\inheritance_polimorfism-csharp\inheritance_polimorfism-csharp\bin\Debug\netcoreapp3.1\inheritance_polimorfism-csharp.deps.json
+C:\Users\Vinicius\source\repos\inheritance_polimorfism-csharp\inheritance_polimorfism-csharp\bin\Debug\netcoreapp3.1\inheritance_polimorfism-csharp.runtimeconfig.json
+C:\Users\Vinicius\source\repos\inheritance_polimorfism-csharp\inheritance_polimorfism-csharp\bin\Debug\netcoreapp3.1\inheritance_polimorfism-csharp.runtimeconfig.dev.json
+C:\Users\Vinicius\source\repos\inheritance_polimorfism-csharp\inheritance_polimorfism-csharp\bin\Debug\netcoreapp3.1\inheritance_polimorfism-csharp.dll
+C:\Users\Vinicius\source\repos\inheritance_polimorfism-csharp\inheritance_polimorfism-csharp\bin\Debug\netcoreapp3.1\inheritance_polimorfism-csharp.pdb
+C:\Users\Vinicius\source\repos\inheritance_polimorfism-csharp\inheritance_polimorfism-csharp\obj\Debug\netcoreapp3.1\inheritance_polimorfism-csharp.csproj.AssemblyReference.cache
+C:\Users\Vinicius\source\repos\inheritance_polimorfism-csharp\inheritance_polimorfism-csharp\obj\Debug\netcoreapp3.1\inheritance_polimorfism-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\source\repos\inheritance_polimorfism-csharp\inheritance_polimorfism-csharp\obj\Debug\netcoreapp3.1\inheritance_polimorfism-csharp.AssemblyInfoInputs.cache
+C:\Users\Vinicius\source\repos\inheritance_polimorfism-csharp\inheritance_polimorfism-csharp\obj\Debug\netcoreapp3.1\inheritance_polimorfism-csharp.AssemblyInfo.cs
+C:\Users\Vinicius\source\repos\inheritance_polimorfism-csharp\inheritance_polimorfism-csharp\obj\Debug\netcoreapp3.1\inheritance_polimorfism-csharp.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\source\repos\inheritance_polimorfism-csharp\inheritance_polimorfism-csharp\obj\Debug\netcoreapp3.1\inheritance_polimorfism-csharp.dll
+C:\Users\Vinicius\source\repos\inheritance_polimorfism-csharp\inheritance_polimorfism-csharp\obj\Debug\netcoreapp3.1\inheritance_polimorfism-csharp.pdb
+C:\Users\Vinicius\source\repos\inheritance_polimorfism-csharp\inheritance_polimorfism-csharp\obj\Debug\netcoreapp3.1\inheritance_polimorfism-csharp.genruntimeconfig.cache
